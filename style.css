@@ -338,7 +338,7 @@ body, html {
        }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1500px) {
     .inside-intro-section {
         height: 35vh;
     }
