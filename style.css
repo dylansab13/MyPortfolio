@@ -338,6 +338,13 @@ body, html {
        }
 }
 
+@media screen and (min-width: 1300px) {
+
+    .boxes {
+        width: 80%;
+    }
+}
+
 
 
 
