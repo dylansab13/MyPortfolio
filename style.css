@@ -55,7 +55,7 @@ body, html {
 }
 
 .inside-intro-section {
-    height: 45vh;
+    height: 50vh;
     background: #05386B;
     display: flex;
     text-align: center;
@@ -74,7 +74,7 @@ body, html {
 }
 
 .inside-intro-section-2 {
-    height: 25vh;
+    height: 20vh;
     background: #05386B;
     display: flex;
     justify-content: center;
