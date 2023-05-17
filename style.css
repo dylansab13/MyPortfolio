@@ -311,7 +311,7 @@ body, html {
 
 @media screen and (max-width: 650px) {
     .certifications-section {
-        height: 145vh;
+        height: 140vh;
        }
        .language-logos {
         width: 100%;
