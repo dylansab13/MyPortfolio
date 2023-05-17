@@ -55,7 +55,7 @@ body, html {
 }
 
 .inside-intro-section {
-    height: 55vh;
+    height: 50vh;
     background: #05386B;
     display: flex;
     text-align: center;
@@ -285,6 +285,14 @@ body, html {
 }
 
 @media screen and (max-width: 586px) {
+    .inside-intro-section {
+        height: 55vh;
+        background: #05386B;
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        align-items: center;
+    }
     .inside-meet-text p {
     padding: 5px 0px;
     font-size: 12px;
